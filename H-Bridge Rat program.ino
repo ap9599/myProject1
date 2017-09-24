@@ -1,4 +1,5 @@
 
+# this is the code for Bridge Rat
 const int forward = 8;//H-Bridge pin 2 cnnctd to dgtl pin 8 on Arduino   
 const int backward = 9;//H_Bridge pin 7 connected to digital pin 9 on Arduino
 const int blink = 13;// built-in led is at pin 13 of arduino
